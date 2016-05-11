@@ -1,7 +1,7 @@
 # INSTALLATION
 
 ## Summary 
-My Flagship CMS app so depends on this package that it has the composer and service provider stuff built in already. 
+File Management for LaSalleCMS
 
 
 ## composer.json:

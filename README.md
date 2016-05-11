@@ -1,4 +1,4 @@
-# FILE AND IMAGE UPLOADS FOR LASALLECMS
+# FILE MANAGMENET FOR LASALLECMS
 
 [![Build Status](https://img.shields.io/travis/lasallecms/lasallecms-l5-lasallecmsfilemgmt-pkg/master.svg?style=flat-square)](https://travis-ci.org/lasallecms/lasallecms-l5-lasallecmsfilemgmt-pkg)
 [![Total Downloads](https://img.shields.io/packagist/dt/lasallecms/lasallecmsfilemgmt.svg?style=flat-square)](https://packagist.org/packages/lasallecms/lasallecmsfilemgmt)
@@ -8,7 +8,9 @@
 [![Software License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Laravel](https://img.shields.io/badge/Laravel-v5.1-brightgreen.svg?style=flat-square)](http://laravel.com)
 
-File and image upload package specifically for my LaSalle Content Management System. 
+File management package specifically for my LaSalle Content Management System. 
+
+Still under development. 
 
 
 ## Security
